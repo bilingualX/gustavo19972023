@@ -1,5 +1,6 @@
-# 👋 Olá! Bem-vindo à minha página do Github.
-## Meu nome é Gustavo D. Assunção e meu apelido é gustavo19972023!
+# 👋 Gustavo D. Assuncao
+
+## Hello, everyone!
 
 
 ### Sobre Mim
