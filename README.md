@@ -9,7 +9,7 @@
 - 🌱 Atualmente, estou focado em aprender JavaScript e ReactJS.
 - 💻 Estudo e aplico com projetos práticos pela DankiCode e Codecademy.
 - 👨‍🏫 Sou professor de inglês em transição de carreira.
-- 💻 Possuo conhecimento em JavaScript, CSS, HTML, e React.
+- 💻 Adquirindo conhecimento na prática em JavaScript, CSS, HTML, e ReactJS.
 - 🏡 Moro em Florianópolis, SC.
 - 🌎 Inglês Proficiente.
 
