@@ -12,4 +12,4 @@
 - 🏡 Moro em Florianópolis, SC.
 - 🌎 Inglês Proficiente.
 
-Sempre buscando desafios e oportunidades para aplicar e expandir meu conhecimento em desenvolvimento web. Aberto a colaborações e aprendizado contínuo.
+Busco oportunidades para aplicar e expandir meu conhecimento em desenvolvimento web. Aberto para colaborações!
