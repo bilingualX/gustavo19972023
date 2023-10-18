@@ -3,14 +3,11 @@
 ## Hello, everyone!
 
 
-### Sobre Mim
-
-- 📚 Estudo Análise e Desenvolvimento de Sistemas (2º semestre).
-- 🌱 Atualmente, estou focado em aprender JavaScript e ReactJS.
-- 💻 Estudo e aplico com projetos práticos pela DankiCode e Codecademy.
-- 👨‍🏫 Sou professor de inglês há 8 anos, estou em transição de carreira para a área da tecnologia.
-- 💻 Adquirindo conhecimento na prática em JavaScript, CSS, HTML, e ReactJS.
-- 🏡 Moro em Florianópolis, SC.
-- 🌎 Inglês Proficiente.
-
-Busco oportunidades para ingressar no mercado de tecnologia para poder aplicar e expandir meu conhecimento em desenvolvimento web. Aberto para colaborações!
+About Me
+📚 I'm studying Analysis and Systems Development (2nd semester).
+🌱 Currently, I'm focused on learning JavaScript and ReactJS.
+💻 I study and apply with practical projects through DankiCode and Codecademy.
+👨‍🏫 I've been an English teacher for 8 years and am transitioning my career into the field of technology.
+💻 Gaining hands-on knowledge in JavaScript, CSS, HTML, and ReactJS.
+🏡 I live in Florianópolis, SC.
+🌎 Proficient in English.
